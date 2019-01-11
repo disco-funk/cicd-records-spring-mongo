@@ -1,5 +1,6 @@
 .gradle
-/build/
+records-microservice/build/
+records-microservice/out/
 .idea/
 
 # Ignore Gradle GUI config
