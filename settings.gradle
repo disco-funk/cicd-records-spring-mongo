@@ -1,0 +1,3 @@
+rootProject.name = 'cicd-records-spring-mongo'
+
+include 'records-microservice'
